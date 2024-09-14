@@ -22,5 +22,3 @@ Then, place the file in the p2_continuous-control/ folder in the DRLND GitHub re
 
 The training can be run directly in the notebook
 
-
-/home/xander/Downloads/cc/figures_scores.png
