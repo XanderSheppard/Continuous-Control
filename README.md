@@ -9,16 +9,3 @@ The environment is considered solved if a reward of +100 is obtain for 30 consec
 
 The method to use is an actor-critic algorithm, the Deep Deterministic Policy Gradients (DDPG) algorithm.
 
-Getting started
-To set up your Python environment correctly follow this link.
-
-To download the Unity Environment follow:
-
-This link for Linux
-This link for OSX
-This link for Microsoft 32 bits
-This link for Microsoft 64 bits (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
-Then, place the file in the p2_continuous-control/ folder in the DRLND GitHub repository, and unzip (or decompress) the file.
-
-The training can be run directly in the notebook
-
